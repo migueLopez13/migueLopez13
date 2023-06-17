@@ -25,7 +25,7 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 <code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
- ## If you're interested in collaborating or have any questions, feel free to reach out to me:
+ ## If you're interested in collaborating, feel free to reach out to me:
 
 <a href="https://in.linkedin.com/in/miguel-ángel-lópez-ariza">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/migueLopez13/migueLopez13/blob/master/assets/Linkedin.svg" />
