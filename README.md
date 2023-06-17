@@ -4,7 +4,7 @@
 
 Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2022.
 
-<img align="right" alt="GIF" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/code.gif?raw=true" width="300" height="400" />
+<img align="right" alt="GIF" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/code.gif?raw=true" width="330" height="400" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=migueLopez13&show_icons=true&hide_border=true" />
 
