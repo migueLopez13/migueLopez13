@@ -23,7 +23,7 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 <code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/sass.png"></code> &nbsp;&nbsp;
 </p>
 
- ## If you're interested in collaborating, feel free to reach out to me:
+ ## Contact:
 
 <a href="https://in.linkedin.com/in/miguel-ángel-lópez-ariza">
     <img align="left" alt="Linkedin" width="40px" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/linkedin.svg" />
