@@ -10,6 +10,17 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueLopez13&layout=compact&hide_border=true" />
 
+
+## Here are some technologies I use at work:
+<p align="center">
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+</p>
+
 ## Skills
 
 - *Frontend Development*: I have a solid understanding of modern frontend development principles and best practices. I can efficiently translate design mockups into pixel-perfect, responsive user interfaces.
