@@ -6,6 +6,8 @@
 
 Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2022.
 
+<img src="https://github-readme-stats.vercel.app/api?username=migueLopez13&show_icons=true&hide_border=true" />
+
 ## Skills
 
 - *Frontend Development*: I have a solid understanding of modern frontend development principles and best practices. I can efficiently translate design mockups into pixel-perfect, responsive user interfaces.
@@ -24,7 +26,6 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 
 - *Problem Solving*: I am a logical thinker and enjoy solving complex problems. I am constantly learning and exploring new techniques and technologies to enhance my problem-solving skills.
 
-<img src="https://github-readme-stats.vercel.app/api?username=migueLopez13&show_icons=true&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueLopez13&layout=compact&hide_border=true" />
 
