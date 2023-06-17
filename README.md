@@ -28,9 +28,9 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
  ## If you're interested in collaborating, feel free to reach out to me:
 
 <a href="https://in.linkedin.com/in/miguel-ángel-lópez-ariza">
-    <img align="left" alt="Linkedin" width="24px" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/Linkedin.svg" />
+    <img align="left" alt="Linkedin" width="24px" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/linkedin.svg" />
   </a>
 
   <a href="mailto:miguelopez1996@gmail.com">
-    <img align="left" alt="Gmail" width="26px" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/Gmail.svg" />
+    <img align="left" alt="Gmail" width="26px" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/gmail.svg" />
   </a>
