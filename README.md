@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2022.
+Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2021.
 
 <img align="right" alt="GIF" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/code.gif?raw=true" width="330" height="400" />
 
