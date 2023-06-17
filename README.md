@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="480" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="450" />
 
 Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2022.
 
