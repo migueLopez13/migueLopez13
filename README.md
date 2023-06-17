@@ -21,8 +21,6 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 <code><img height="70" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/sass.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
  ## If you're interested in collaborating, feel free to reach out to me:
