@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="500" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="480" />
 
 Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2022.
 
@@ -13,12 +13,14 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 
 ## Here are some technologies I use at work:
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vuex.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/sass.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
 ## Skills
