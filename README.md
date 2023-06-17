@@ -4,7 +4,6 @@
 
 Hello there! My name is Miguel. I am a passionate frontend developer specializing in Vue. I have been creating interactive and responsive web applications since 2022.
 
-<iframe src="https://giphy.com/embed/3o7qEc1FhfvPMjlSCI" width="350" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-lookhuman-3o7qEc1FhfvPMjlSCI">via GIPHY</a></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=migueLopez13&show_icons=true&hide_border=true" />
 
