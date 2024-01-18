@@ -11,7 +11,7 @@ Hello there! My name is Miguel. I am a passionate frontend developer specializin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueLopez13&layout=compact&hide_border=true" />
 
 
-## Here are some technologies I use at work:
+## Here are some technologies that i know:
 <p align="center">
 <code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/vue.png"></code>
 <code><img height="75" src="https://github.com/migueLopez13/migueLopez13/blob/main/assets/vuex.png"></code> &nbsp;&nbsp;
